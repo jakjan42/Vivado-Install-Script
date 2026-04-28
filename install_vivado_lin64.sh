@@ -6,7 +6,7 @@
 # the first step is downloading and verifing the TAR/GZIP version of AMD Unified Installer
 # from https://www.xilinx.com/support/download.html.
 
-# update according to the version of the installer you heve downloaded
+# update according to the version of the installer you have downloaded from AMD website
 UNIFIED_INSTALLER_PATH=./FPGAs_AdaptiveSoCs_Unified_2023.2_1013_2256.tar.gz
 
 # path to the directory where you want Vivado to be installed
